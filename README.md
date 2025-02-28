@@ -24,7 +24,7 @@ Clone the repository:
 
 ## bash
 
-git clone https://github.com/yourusername/crop-yield-prediction.git
+git clone https://github.com/Karnemahesh/Crop_Yield_Prediction
 cd crop-yield-prediction
 Create a virtual environment (optional but recommended):
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 Usage
 Start the application (change to the appropriate script name if necessary):
 
-bash
+## bash
 
 python main.py
 Follow the on-screen instructions to input the required parameters for crop yield prediction.
